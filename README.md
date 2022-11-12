@@ -1,16 +1,11 @@
 # todo_app
 
-A new Flutter project.
+To Do App using Dart and Flutter with Hive to store data locally
 
-## Getting Started
+SCREENSHOTS:-
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1668266643](https://user-images.githubusercontent.com/105491470/201482477-51e40325-8289-48f4-b247-7aaedc838f4e.png)
+![Screenshot_1668266647](https://user-images.githubusercontent.com/105491470/201482479-857dda97-a98d-44ee-84f4-dc14842bbe25.png)
+![Screenshot_1668266664](https://user-images.githubusercontent.com/105491470/201482482-272a2ab0-87bd-4f9d-9cbf-be5d74f6c63b.png)
+![Screenshot_1668266668](https://user-images.githubusercontent.com/105491470/201482484-31eee339-6e42-4975-b1ba-84b8088fa75e.png)
+![Screenshot_1668266674](https://user-images.githubusercontent.com/105491470/201482485-82b42e27-fa06-4311-8858-84d5c3bb242b.png)
